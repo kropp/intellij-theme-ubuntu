@@ -1,0 +1,52 @@
+{
+  "name": "Ubuntu Theme",
+  "dark": true,
+  "author": "Victor Kropp",
+  "editorScheme": "/Ubuntu_Theme.xml",
+  "ui": {
+    "*": {
+      "background": "#2b2929",
+      "foreground": "#ffffff",
+      "selectionBackground": "#e95420",
+      "selectionForeground": "#fdfdfd"
+    },
+    "Panel": {
+      "background": "#2b2929",
+      "foreground": "#ffffff"
+    },
+    "StatusBar.borderColor": "#2b2929",
+    "ToolWindow": {
+      "Header": {
+        "background": "#2b2929",
+        "inactiveBackground": "#2b2929",
+        "borderColor":"#343333"
+      }
+    },
+
+    "FileColor": {
+      "Blue": "#19b6ee",
+      "Green": "#3eb34f",
+      "Orange": "#e95420",
+      "Rose": "#ed3146",
+      "Violet": "#762572",
+      "Yellow": "#f89b0f"
+    }
+  },
+
+  "icons": {
+    "ColorPalette": {
+      "Objects.Blue": "#19b6ee",
+      "Objects.GreenAndroid": "#3eb34f",
+      "Objects.YellowDark": "#e95420",
+      "Objects.Red": "#ed3146",
+      "Objects.Purple": "#762572",
+      "Objects.Yellow": "#f89b0f",
+
+      "Actions.Blue": "#19b6ee",
+      "Actions.Green": "#3eb34f",
+      "Actions.Orange": "#e95420",
+      "Actions.Red": "#ed3146",
+      "Actions.Yellow": "#f89b0f"
+    }
+  }
+}

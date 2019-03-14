@@ -1,0 +1,21 @@
+<idea-plugin>
+  <id>com.github.kropp.intellij.theme.ubuntu</id>
+  <name>Ubuntu Theme</name>
+  <version>0.0.1</version>
+  <vendor email="victor.kropp@gmail.com" url="https://victor.kropp.name/">Victor Kropp</vendor>
+
+  <description><![CDATA[
+        IntelliJ Theme in Ubuntu Yaru colors.
+    ]]></description>
+
+  <change-notes><![CDATA[
+  Initial release.
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="191.0"/>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="6aab2d2f-f020-451d-bf1e-5c49bd587442" path="/Ubuntu_Theme.theme.json"/>
+  </extensions>
+</idea-plugin>
