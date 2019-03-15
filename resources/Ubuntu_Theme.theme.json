@@ -23,6 +23,26 @@
       }
     },
 
+    "Component": {
+      "focusWidth": "1",
+      "focusColor": "#e95420",
+      "focusedBorderColor": "#e95420",
+      "borderColor": "#524e4e"
+    },
+
+    "Button": {
+      "default": {
+        "startBackground": "#3eb34f",
+        "endBackground": "#3eb34f",
+        "focusedBorderColor": "#ffffff",
+        "focusColor": "#ffffff00",
+        "foreground": "#ffffff"
+      },
+      "startBackground": "#524e4e",
+      "endBackground": "#524e4e",
+      "focusedBorderColor": "#524e4e"
+    },
+
     "FileColor": {
       "Blue": "#19b6ee",
       "Green": "#3eb34f",
@@ -46,7 +66,14 @@
       "Actions.Green": "#3eb34f",
       "Actions.Orange": "#e95420",
       "Actions.Red": "#ed3146",
-      "Actions.Yellow": "#f89b0f"
+      "Actions.Yellow": "#f89b0f",
+
+      "Checkbox.Focus.Wide.Dark": "#e95420",
+      "Checkbox.Focus.Thin.Selected.Dark": "#e95420",
+      "Checkbox.Background.Default.Dark": "#3d3d3d",
+      "Checkbox.Background.Disabled.Dark": "#3d3d3d",
+      "Checkbox.Background.Selected.Dark": "#3eb34f",
+      "Checkbox.Foreground.Selected.Dark": "#ffffff"
     }
   }
 }
